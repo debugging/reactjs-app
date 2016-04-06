@@ -1,2 +1,5 @@
 npm init
 npm install --save name@version
+	gulp tasks for connect, open and watch
+installed browserify, reactify, vinly-source
+	bundling js
