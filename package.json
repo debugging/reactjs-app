@@ -1,0 +1,25 @@
+{
+  "name": "reactjs-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "gulp": "^3.9.0",
+    "gulp-connect": "^2.2.0",
+    "gulp-open": "^1.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/debugging/reactjs-app.git"
+  },
+  "author": "salman ahmed",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/debugging/reactjs-app/issues"
+  },
+  "homepage": "https://github.com/debugging/reactjs-app#readme"
+}
